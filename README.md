@@ -1,6 +1,7 @@
 # java-study
 I am learning Java, these small programs are my little practice
-这是运行在Eclipse上的  万年历程序
+这是运行在Eclipse上的  万年历程序代码
+       
 package 类的部分总结;
 import java.text.DateFormat;                           //这是一些列方法所需要的包
 import java.text.ParseException;
